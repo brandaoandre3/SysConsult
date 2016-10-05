@@ -1,0 +1,54 @@
+body{
+/*background-image:url(../img/logo_background.jpg);*/
+background-repeat: no-repeat;
+background-position: center;}
+/*
+html { overflow-y: scroll; }
+html { overflow: -moz-scrollbars-vertical; }
+html { overflow-x: auto;}*/
+html, body {height:100%;}
+	
+#pagina{
+	min-height: 600px;
+	
+}
+#topo{
+	
+	height: 123px;
+	background-image: url("../img/backini2.png");
+	
+}
+#menu{
+	background-color: #000;
+	min-height: 30px;
+	max-height: 30px;
+	
+}
+#corpo{
+	
+	
+	margin-top: 3px;
+}
+#rodape{
+	/*background-color:black;*/
+	background-image: url("../img/backini2.png");
+	height: 50px;
+
+}
+
+/*PAGINA DE CADASTRO DE PACIENTE*/
+/*FORMULARIO DE CADASTRO DE PACIENTE*/
+#input_nome_paciente{
+	
+
+}
+#input_cod_paciente{}
+#input_data_nascimento{}
+#input_data_extenso{}
+#input_sexo{}
+#input_estado_civil{}
+#input_profissao{}
+
+
+.alinhamento_esquerdo{text-align: right;}
+/*FIM PAGINA DE CADASTRO DE PACIENTE*/
